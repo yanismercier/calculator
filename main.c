@@ -11,6 +11,6 @@ int addition(int a,int b)
 
 int main()
 {
-    printf("%d\n", addition(2,3));
+    printf("a+b=%d\n", addition(2,3));
     return 0;
 }
