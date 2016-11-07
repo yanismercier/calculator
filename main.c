@@ -11,6 +11,8 @@ int addition(int a,int b)
 
 int main()
 {
-    printf("a+b=%d\n", addition(2,3));
+
+    printf("L’addition de a et de b vaut%d\n", addition(2,3));
+
     return 0;
 }
